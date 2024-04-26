@@ -47,3 +47,11 @@ Midjourney：
 ## 🛠️ Instruções de execução
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+
+### Contato
+
+Para mais informações, você pode me encontrar em:
+
+- GitHub: [alielsonfp](https://github.com/alielsonfp)
+- Instagram: [delirium_psy](https://www.instagram.com/delirium_psy/)
+- LinkedIn: [Alielson Ferreira](https://www.linkedin.com/in/alielson-ferreira-4b5858165/)
