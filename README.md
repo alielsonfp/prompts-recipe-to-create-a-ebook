@@ -1,3 +1,4 @@
+
 # Projeto EBOOK Gerado por I.A.s
 
 > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual participei na plataforma da [DIO](https://dio.me)
@@ -21,8 +22,9 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema de SQL, o ebook é do nicho de programação e o subnicho é de SQL, o titulo deve ser épico e curto, e tenha uma temática de Fallout no titulo, me liste 5 variações de titulo                                                        |
-| conteúdo | Faça um texto para um ebook, com foco em SQL, listando as principais funções com exemplos em código
-Faça esse texto com uma tematica da série Fallout onde o usuario estara entrando na Vault 79 e acessando o terminal em busca de informações, O titulo do Ebook é: Vault-79: Desvendando Fortalezas de Dados com SQL {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de código cem contexto reais, Sempre deixe um titulo sugestivo por tópico, Ensine por partes usando cada exemplo com apenas a função exemplificada, Exiba o resultado dos codigos |
+| :------:| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| conteúdo | Faça um texto para um ebook, com foco em SQL, listando as principais funções com exemplos em código, Faça esse texto com uma tematica da série Fallout onde o usuario estara entrando na Vault 79 e acessando o terminal em busca de informações. O titulo do Ebook é: Vault-79: Desvendando Fortalezas de Dados com SQL. {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Sempre traga exemplos de código em contexto real. Sempre deixe um titulo sugestivo por tópico, Ensine por partes usando cada exemplo com apenas a função exemplificada, Exiba o resultado dos codigos. |
+
 
 
                                                                 
@@ -31,7 +33,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A character from Fallout game series, with a gun in hand, enters a new vault. The new vault is number 79, in the art style of the vault boy --v 6.0  |
 
 ## 📚 Materiais
 
