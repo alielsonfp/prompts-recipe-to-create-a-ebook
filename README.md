@@ -35,6 +35,11 @@ Midjourney：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | A character from Fallout game series, with a gun in hand, enters a new vault. The new vault is number 79, in the art style of the vault boy --v 6.0  |
 
+## ✨ Features
+
+- Conteúdo gerado via ChatGPT
+- Imagens geradas via MidJourney
+
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
